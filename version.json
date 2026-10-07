@@ -1,43 +1,43 @@
 {
-  "versionName": "1.4.9.4",
-  "versionCode": 80,
-  "tag": "v1.4.9.4",
-  "publishedAt": "2026-10-07T05:28:09Z",
-  "releasePage": "https://github.com/AceGuru-mjh/Android-Guru-Agent-Release/releases/tag/v1.4.9.4",
+  "versionName": "1.4.9.5",
+  "versionCode": 81,
+  "tag": "v1.4.9.5",
+  "publishedAt": "2026-10-07T06:28:18Z",
+  "releasePage": "https://github.com/AceGuru-mjh/Android-Guru-Agent-Release/releases/tag/v1.4.9.5",
   "download": {
     "arm64": {
-      "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent-Release/releases/download/v1.4.9.4/ApexAgent-v1.4.9.4-release-arm64-c2a5cbe7.apk",
-      "sizeBytes": 335007306,
-      "sha256": "eb5b962dd829a4b75181cc8ceb7849261b4f39401b78cb859c52d9e9390f351f"
+      "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent-Release/releases/download/v1.4.9.5/ApexAgent-v1.4.9.5-release-arm64-13f3c5a8.apk",
+      "sizeBytes": 335009894,
+      "sha256": "1b101c802b1253e8ba2f8358fcbc725034cadae3b278d9bde42408aeff34b381"
     },
     "universal": {
-      "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent-Release/releases/download/v1.4.9.4/ApexAgent-v1.4.9.4-release-universal-c2a5cbe7.apk",
-      "sizeBytes": 949930356,
-      "sha256": "f70ca29f5fad391a0393985a47e6cb9d8d57a2c557c1c33ca621d401a4e5db2c"
+      "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent-Release/releases/download/v1.4.9.5/ApexAgent-v1.4.9.5-release-universal-13f3c5a8.apk",
+      "sizeBytes": 949932940,
+      "sha256": "7b3ae5f9d4209ec904044943cab4ed186e8fae377a4d63fcda0a9a741b790ead"
     }
   },
   "plugin": {
     "id": "com.apex.agent.plugin.webautomation",
     "name": "网页自动化",
     "minHostVersion": 1,
-    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent-Release/releases/download/v1.4.9.4/ApexWebAutomationPlugin-v1.4.9.4.apk",
-    "sizeBytes": 1929043,
-    "sha256": "5302bd776c5697b1c23536acdeb0ff90c765ad885375978da5dffd4267db376a"
+    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent-Release/releases/download/v1.4.9.5/ApexWebAutomationPlugin-v1.4.9.5.apk",
+    "sizeBytes": 1929041,
+    "sha256": "2a8a4f9411fb5a1253dcd4488ba7aed44bdccba3a159b8b370513f15acb451a3"
   },
   "patch": {
     "arm64": {
-      "fromTag": "v1.4.9.3",
-      "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent-Release/releases/download/v1.4.9.4/patch_arm64_v1.4.9.3_to_v1.4.9.4.vcdiff",
-      "sizeBytes": 16068466,
-      "sha256": "6866f429a13842d9f8ab0801290df346e9dcd9e18fea6dd09439387b84b7e8ca"
+      "fromTag": "v1.4.9.4",
+      "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent-Release/releases/download/v1.4.9.5/patch_arm64_v1.4.9.4_to_v1.4.9.5.vcdiff",
+      "sizeBytes": 12026007,
+      "sha256": "49f2d69c4fb448799fd60898cb2743dec02fe83348786cf61758583f05b596f0"
     },
     "universal": {
-      "fromTag": "v1.4.9.3",
-      "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent-Release/releases/download/v1.4.9.4/patch_universal_v1.4.9.3_to_v1.4.9.4.vcdiff",
-      "sizeBytes": 16075207,
-      "sha256": "97dd26ccb496ad098dd43c03b8904fdc8861f5aed0602dee02b671c8a8fb1359"
+      "fromTag": "v1.4.9.4",
+      "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent-Release/releases/download/v1.4.9.5/patch_universal_v1.4.9.4_to_v1.4.9.5.vcdiff",
+      "sizeBytes": 12043991,
+      "sha256": "66692c0b4eca169f0def3cc7873d744bdcd3f6e9a52699134fa15e4acce47846"
     }
   },
-  "commitSha": "c2a5cbe7d5c37e340c2043776b29edb1c9df919b",
+  "commitSha": "13f3c5a8f960f4f4a1be3a6312eaf247a9ad0818",
   "signingCertSha256": "bcb9dfdd9b2e197c90ab19fb80fa68fcbf9a9f180702d51b268069538303c913"
 }
