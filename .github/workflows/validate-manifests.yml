@@ -60,7 +60,7 @@ jobs:
           import subprocess
           import sys
 
-          REPO = "AceGuru-mjh/Android-Guru-Agent-Release"
+          REPO = "Ultra-Guru/Android-Guru-Agent-Release"
           RELEASE_BASE = f"https://github.com/{REPO}/releases"
           ASSET_BASE = f"{RELEASE_BASE}/download"
           HEX64 = re.compile(r"^[0-9a-f]{64}$")

@@ -52,7 +52,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  DEV_REPO: AceGuru-mjh/Android-Guru-Agent
+  DEV_REPO: Ultra-Guru/Android-Guru-Agent
 
 jobs:
   republish:
@@ -160,7 +160,7 @@ jobs:
 
           vcode, vname, tag = (int(os.environ["VCODE"]),
                                os.environ["VNAME"], os.environ["TAG"])
-          REPO = "AceGuru-mjh/Android-Guru-Agent-Release"
+          REPO = "Ultra-Guru/Android-Guru-Agent-Release"
 
           # 热通道能力地板：首个携带热更客户端的 versionCode（v1.4.7）。
           # 与开发仓库 release.yml 保持一致 —— 热更包是累积快照，对任何
